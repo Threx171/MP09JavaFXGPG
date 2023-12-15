@@ -76,6 +76,12 @@
         <version>5.10.0</version> <!-- Use the latest stable version available -->
         <scope>test</scope>
     </dependency>
+    
+    <dependency>
+        <groupId>org.bouncycastle</groupId>
+        <artifactId>bcpg-jdk15on</artifactId>
+        <version>1.69</version> <!-- Reemplaza con la versión más reciente -->
+    </dependency>
 
   </dependencies>
 
